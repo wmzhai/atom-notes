@@ -3,4 +3,6 @@ ATOM Notes
 
 **Introduction**
 
-# [Chapter1](chap1.md)
+# [快捷键](shortcuts.md)
+
+# [GIT](git.md)
